@@ -1,1 +1,1 @@
-# curso-r-insnsb
+# Ayudantía de bioestadística y Epidemiología
