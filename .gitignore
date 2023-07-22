@@ -1,0 +1,13 @@
+/.quarto/
+.Rproj.user
+/documents/
+/informe
+
+.pdf
+/videos
+videos
+.Rhistory
+.Rdata
+.httr-oauth
+.DS_Store
+.quarto

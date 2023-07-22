@@ -1,0 +1,30 @@
+author: Anthony Romero-Cerdán
+
+lang: es
+
+instructor:
+  name: Anthony Romero Cerdán
+  name_no_title: Anthony Romero-Cerdán
+  email: anthony.romeromh@gmail.com
+  url: "https://github.com/ganthonyr"
+  twitter: ganthonyrc
+  github: ganthonyr
+  office: "Virtual: Google Meet"
+  about_us: >-
+    Somos un grupo de estudiantes de la Escuela de Medicina humana de la UNMSM con una genuina afición por la investigación en salud y sus componentes, como la bioestadística, epidemiología, análisis de datos con R, Stata, etc. Además, nos encanta enseñar y compartir nuestros conocimientos mediante sesiones 90% prácticas donde tratamos de abordar los temas requeridos de una manera didáctica y sencilla!
+
+course:
+  number: "Ayudantía de Bioestadística y Epidemiología"
+  semester: "Semestre académico 2023-2"
+  days: "Fechas previa coordinación"
+  location: "Meet"
+  github: "https://github.com/ganthonyr/ayudantia_bioepi"
+  copyright_year: "2023"
+
+university:
+  name: Universidad Nacional Mayor de San Marcos, Perú
+  url: "https://ietsi.essalud.gob.pe/"
+
+school:
+  name: Asociación para el Desarrollo de Investigación Estudiantil en Ciencias de la Salud
+  url: "https://www.facebook.com/adiecs.unmsm"

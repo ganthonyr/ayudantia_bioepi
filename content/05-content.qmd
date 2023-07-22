@@ -1,0 +1,54 @@
+---
+title: "Sesión 05"
+date: "2023-06-09"
+---
+
+## Objetivos
+
+- Medidas de resumen para variables numéricas.
+
+- Análisis descriptivo de variables categóricas.
+
+- Gráficos de variables numéricas con R: histograma, densidad, cajas, violin, combinación de gráficos.
+
+- Gráficos de variables categóricas con R: barra de frecuencias absolutas y relativas, barras apiladas, gráficos de pastel (pái), lollipop plot, treemap, etc.
+
+## Materiales
+
+::: {.panel-tabset}
+
+### Teoría grabada
+
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/836984872?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Día 5 - Análisis Descriptivo de Datos"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
+- Anotaciones extra en quarto: [Aquí](../slides/sesion05/adicional.qmd) 
+
+### Práctica grabada
+
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/836987145?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="video5_practica"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
+### Slides
+
+```{r slides-videos, echo=FALSE, include=FALSE}
+source(here::here("R", "slide-things.R"))
+```
+
+```{r show-slide-tabs1, echo=FALSE, results="asis"}
+slide_buttons("/slides/sesion05/sesion05")
+```
+
+```{=html}
+<iframe width="780" height="500" src="../slides/sesion05/sesion05.html" title="Sesión 5 - Análisis Descriptivo con R"></iframe>
+```
+
+### Talleres
+
+|                              |                                                                                  |
+|----------------------|--------------------------------------------------|
+| Instructivo en línea         | [Aquí](../taller/taller05/taller05_instructivo.html)                                                 |
+| Instructivo con solucionario | [Aquí](../taller/taller05/taller05_instructivo_sol.html)                                                                       |
+| Quarto para alumnos          | [Aquí](../taller/taller05/taller05_alumno.qmd)                                                                       |
+| Toda la carpeta del taller   | [Aquí](https://drive.google.com/drive/folders/1u5BxnIIDTEF4MNqJJQv_QE8-RVoqgxrk) |
+
+:::
+

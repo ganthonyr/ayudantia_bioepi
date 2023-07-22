@@ -1,0 +1,19 @@
+group;subgroup;date;date_end;title;deadline;content;example;assignment
+M?dulo 1: Manejo de datos con R;Sesi?n 0;24/05/2023;;Palabras de bienvenida y presentaci?n del programa;;;;
+M?dulo 1: Manejo de datos con R;Sesi?n 1;24/05/2023;;Clase te?rica: Verificaci?n de instalaci?n de R, Rstudio y Quarto. Primeros pasos con R. Importar datos con R.;;;;
+M?dulo 1: Manejo de datos con R;Sesi?n 2;24/05/2023;;Clase pr?ctica: Taller de trabajo en equipo: Primeros pasos con R. Importar datos con R.;;;;
+M?dulo 1: Manejo de datos con R;Sesi?n 3;26/05/2023;;Clase te?rica: Introducci?n a la visualizaci?n de datos con ggplot2.;;;;
+M?dulo 1: Manejo de datos con R;Sesi?n 4;26/05/2023;;Clase pr?ctica: Introducci?n a la visualizaci?n de datos con ggplot2.;;;;
+M?dulo 2: An?lisis Descriptivo con R;Sesi?n 5;31/05/2023;;Clase te?rica: Manejo de datos con DPLYR 1: Seleccionar y ordenar filas y columnas. Crear y modificar columnas. Etiquetas y metadatos. Helpers.;;;;
+M?dulo 2: An?lisis Descriptivo con R;Sesi?n 6;31/05/2023;;Clase pr?ctica: Manejo de datos con DPLYR 1: Seleccionar y ordenar filas y columnas. Crear y modificar columnas. Etiquetas y metadatos. Helpers.;;;;
+M?dulo 2: An?lisis Descriptivo con R;Sesi?n 7;2/06/2023;;Clase te?rica: Inspecci?n inicial de datos. An?lisis descriptivo de datos 1.;;;;
+M?dulo 2: An?lisis Descriptivo con R;Sesi?n 8;2/06/2023;;Clase pr?ctica: Inspecci?n inicial de datos. An?lisis descriptivo de datos 1.;;;;
+M?dulo 2: An?lisis Descriptivo con R;Sesi?n 9;9/06/2023;;Clase te?rica: An?lisis descriptivo de datos 2.;;;;
+M?dulo 2: An?lisis Descriptivo con R;Sesi?n 10;9/06/2023;;Clase pr?ctica: An?lisis descriptivo de datos 2.;;;;
+M?dulo 3: Inferencia Estad?stica con R;Sesi?n 11;14/06/2023;;Clase te?rica: Prueba de hip?tesis y Estimaci?n 1.;;;;
+M?dulo 3: Inferencia Estad?stica con R;Sesi?n 12;14/06/2023;;Clase pr?ctica: Prueba de hip?tesis y Estimaci?n 1.;;;;
+M?dulo 3: Inferencia Estad?stica con R;Sesi?n 13;16/06/2023;30/10/2022;Clase te?rica: Prueba de hip?tesis y Estimaci?n 2.;;;;
+M?dulo 3: Inferencia Estad?stica con R;Sesi?n 14;16/06/2023;;Clase pr?ctica: Prueba de hip?tesis y Estimaci?n 2.;;;;
+M?dulo 3: Inferencia Estad?stica con R;Sesi?n 15;21/06/2023;;Clase te?rica: Tablas y reporte reproducibles.;;;;
+M?dulo 3: Inferencia Estad?stica con R;Sesi?n 16;21/06/2023;;Clase pr?ctica: Tablas y reporte reproducibles.;;;;
+M?dulo 3: Inferencia Estad?stica con R;Examen Final;23/06/2023;3/07/2023;Trabajo asincr?nico. Desarrollo de conjunto de datos problema;3/07/2023;;;

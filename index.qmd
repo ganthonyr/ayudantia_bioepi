@@ -1,0 +1,53 @@
+---
+title: "Ayudantía de Bioestadística y Epidemiología"
+subtitle: "ADIECS, UNMSM"
+details: |
+  **Sitio web de educación** <br> 
+  Asesoría en Bioestadístia y Epidemiología para pregrado.<br> 
+  Repasos, bancos de preguntas, etc.<br> 
+  _Asociación para el Desarrollo de la Investigación Estudiantil en Ciencias de la Salud – ADIECS_<br>
+  Clases bien chéveres ;)
+sidebar: false
+toc: false
+page-layout: full
+format:
+  html:
+    template-partials:
+      - html/home/title-block.html
+course-logo: logo.png
+---
+
+::: {.home}
+
+::: {.grid .course-details}
+
+::: {.g-col-4}
+### Instructor
+
+- {{< fa user >}} &nbsp; [{{< var instructor.name >}}]({{< var instructor.url >}})
+- {{< fa university >}} &nbsp; {{< var instructor.office >}}
+- {{< fa envelope >}} &nbsp; <a href="mailto:{{< var instructor.email >}}">{{< var instructor.email >}}</a>
+- {{< fa brands twitter >}} &nbsp; [{{< var instructor.twitter >}}](https://www.twitter.com/{{< var instructor.twitter >}})
+<!-- - {{< fa calendar-check >}} &nbsp; [Agenda una reunión virtual]({{< var instructor.appointment_url >}}) -->
+:::
+
+::: {.g-col-4}
+### Detalles de nuestras sesiones
+
+- {{< fa calendar >}} &nbsp; {{< var course.days >}}
+<!-- - {{< fa calendar-alt >}} &nbsp; {{< var course.dates >}} -->
+<!-- - {{< fa clock >}} &nbsp; {{< var course.time >}} -->
+- {{< fa location-dot >}} &nbsp; {{< var course.location >}}
+:::
+
+::: {.g-col-4 .contact-policy}
+### Quiénes somos
+
+{{< var instructor.about_us >}}
+:::
+
+:::
+
+![](files/img/homepage_bioepi.png)
+
+:::

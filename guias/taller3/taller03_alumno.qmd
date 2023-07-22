@@ -1,0 +1,207 @@
+---
+title: "Taller 03"
+---
+
+## Introducción
+
+En este tercer taller del curso revisaremos las funciones básicas del paquete `Dplyr` de `Tidyverse` para manejo y preprocesamiento de datos con R. 
+
+## Secciones previas
+
+En las secciones previas no hay necesidad de usar esta plantilla.
+
+## Ejercicios con Dplyr
+
+### Ejercicio 1 {.unnumbered}
+
+Filtrar la data para mostrar únicamente a los pingüinos de la especie "Chinstrap" (Renderizar el chunk de código)
+
+```{r}
+# Escribe código aquí
+
+```
+
+### Ejercicio 2 {.unnumbered}
+
+Filtrar la data para mostrar únicamente a los pingüinos de las especies "Chinstrap" y "Gentoo" (Renderizar el chunk de código)
+
+```{r}
+# Escribe código aquí
+
+```
+
+### Ejercicio 3 {.unnumbered}
+
+Filtrar la data para mostrar únicamente a los pingüinos de la especie "Adelie" que sean de la isla "Dream" (Renderizar el chunk de código)
+
+```{r}
+# Escribe código aquí
+
+```
+
+### Ejercicio 4 {.unnumbered}
+
+Excluir a todos los pingüinos de la especie "Chinstrap" de la data (Renderizar el chunk de código)
+
+```{r}
+# Escribe código aquí
+
+```
+
+### Ejercicio 5 {.unnumbered}
+
+Filtrar la data para mostrar únicamente a los pingüinos cuya aleta tenga una longitud mayor a 200mm (Renderizar el chunk de código)
+
+```{r}
+# Escribe código aquí
+
+```
+
+### Ejercicio 6 {.unnumbered}
+
+Filtrar la data para mostrar únicamente a los pingüinos cuya masa corporal sea, como máximo, 2900g (Renderizar el chunk de código)
+
+```{r}
+# Escribe código aquí
+
+```
+
+### Ejercicio 7 {.unnumbered}
+
+Seleccione las variables que contengan "length" en el nombre (Renderizar el chunk de código)
+
+```{r}
+# Escribe código aquí
+
+```
+
+### Ejercicio 8 {.unnumbered}
+
+Seleccione las variables que contengan "length" en el nombre o inicien con "bill" (Renderizar el chunk de código)
+
+```{r}
+# Escribe código aquí
+
+```
+
+### Ejercicio 9 {.unnumbered}
+
+Filtrar la data para mostrar únicamente a los pingüinos de la especie "Adelie" cuya cresta dorsal del pico sea mayor a 40mm (Renderizar el chunk de código)
+
+```{r}
+# Escribe código aquí
+
+```
+
+### Ejercicio 10 {.unnumbered}
+
+Seleccione el año, isla y especie de la data (Renderizar el chunk de código)
+
+```{r}
+# Escribe código aquí
+
+```
+
+### Ejercicio 11 {.unnumbered}
+
+Seleccione las variables desde especies hasta masa corporal usando el operador ":" (Renderizar el chunk de código)
+
+```{r}
+# Escribe código aquí
+
+```
+
+### Ejercicio 12 {.unnumbered}
+
+Excluya la variable isla de la data (Renderizar el chunk de código)
+
+```{r}
+# Escribe código aquí
+
+```
+
+### Ejercicio 13 {.unnumbered}
+
+Seleccione las variables que inicien con "bill" (Renderizar el chunk de código)
+
+```{r}
+# Escribe código aquí
+
+```
+
+### Ejercicio 14 {.unnumbered}
+
+Se desea filtrar a todos pingüinos Gentoo con pico de mas de 15.5 mm de profundidad. Escriba el código para tal tarea. (Renderizar el chunk de código)
+
+```{r}
+# Escribe código aquí
+
+```
+
+### Ejercicio 15 {.unnumbered}
+
+Filtre a los pinguinos machos que fueron registrados en las islas "Biscoe" y "Dream". (Renderizar el chunk de código)
+
+```{r}
+# Escribe código aquí
+
+```
+
+### Ejercicio 16 {.unnumbered}
+
+Filter la data para mostrar a los pinguinos Adelie con una cresta dorsal de pico menor a 35mm que no sean machos. (Renderizar el chunk de código)
+
+```{r}
+# Escribe código aquí
+
+```
+
+
+### Ejercicio 17 {.unnumbered}
+
+Cree una variable que contenga a la masa corporal pero en kilogramos, llamela "body_mass_kg" y otra variable llamada "flipper_length_m" que contenga a la longitud de la aleta pero en metros (Renderizar el chunk de código)
+
+```{r}
+# Escribe código aquí
+
+```
+
+### Ejercicio 18 {.unnumbered}
+
+Seleccione a los pinguinos Gentoo y mantenga la isla de la que proviene, el sexo y la masa corporal (Renderizar el chunk de código)
+
+```{r}
+# Escribe código aquí
+
+```
+
+### Ejercicio 19 {.unnumbered}
+
+Seleccione a los pinguinos machos con longitud de pico mayor a 200mm y mantenga a las variables que terminen con "mm" (Renderizar el chunk de código)
+
+```{r}
+# Escribe código aquí
+
+```
+
+### Ejercicio 20 {.unnumbered}
+
+Cree una tabla con el promedio de la masa corporal de los pinguinos según especie (Renderizar el chunk de código)
+
+```{r}
+# Escribe código aquí
+
+```
+
+### Ejercicio 21 {.unnumbered}
+
+Repita el código de la pregunta 20, pero aplicado solo para los pinguinos machos de la especie Adelie (Renderizar el chunk de código)
+
+```{r}
+# Escribe código aquí
+
+```
+
+## Renderice todo el documeto quarto
+
+Al finalizar, renderice todo el documento quarto.
